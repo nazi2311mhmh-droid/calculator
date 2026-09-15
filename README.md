@@ -27,11 +27,11 @@ Python 3
 
 سپس فایل برنامه را اجرا کنید:
 
-python calculator.py
+python mashinhesab_app.py
 
 در بعضی سیستم‌ها ممکن است نیاز باشد از دستور زیر استفاده کنید:
 
-python3 calculator.py
+python3 mashinhesab_app.py
 
 🎮 نحوه استفاده
 بعد از اجرای برنامه، یک منو مانند زیر نمایش داده می‌شود:
@@ -62,7 +62,7 @@ adad 10 bar 2 bakhshpazir ast.
 
 📁 ساختار پروژه
 .
-├── calculator.py
+├── mashinhesab_app.py
 └── README.md
 
 🧩 توابع برنامه
